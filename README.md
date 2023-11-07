@@ -3,6 +3,8 @@
 
 A first-price sealed-bid auction in Leo.
 
+My Discord: lunayuvaris#7935
+
 ## Summary
 
 A first-price sealed-bid auction (or blind auction) is a type of auction in which each participant submits a bid without knowing the bids of the other participants. 
